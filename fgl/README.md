@@ -7,4 +7,4 @@ IMPORT FGL fglcdvMedia
 ```
 
 To add here: Genero specific documentation about how to use the plugin.
-The Genero wrapper API is described [here](fglcdvMedia.html)
+The Genero wrapper API is described [here](https://rawgit.com/FourjsGenero/cordova-plugin-media/master/fgl/fglcdvMedia.html)
