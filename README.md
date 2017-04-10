@@ -1,4 +1,5 @@
-This fork is providing Genero 4GL specific additions
+This fork is providing Genero 4GL specific additions, see [here](fgl/README.md)
+
 ---
 title: Media
 description: Record and play audio on the device.
